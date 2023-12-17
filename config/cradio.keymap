@@ -70,7 +70,7 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
         //│  {       │  &       │  *       │  (       │  }       │   │          │          │          │          │          │
-            &kp RBRC   &kp AMPS   &kp ASTRK  &kp LPAR   &kp RBRC       &trans     &trans     &trans     &trans     &trans
+            &kp LBRC   &kp AMPS   &kp ASTRK  &kp LPAR   &kp RBRC       &trans     &trans     &trans     &trans     &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  :       │  $       │  %       │  ^       │  +       │   │          │          │          │          │          │
             &kp COLON  &kp DLLR   &kp PRCNT  &kp CARET  &kp PLUS       &kp RSHFT  &kp RCTRL  &kp RGUI   &kp RALT   &trans
